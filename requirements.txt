@@ -1,5 +1,9 @@
 streamlit
-fitz
+pandas
+python-dotenv
+pymupdf
 pdf2image
 pytesseract
+pillow
 groq
+numpy
