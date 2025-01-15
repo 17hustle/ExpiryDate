@@ -1,0 +1,5 @@
+streamlit
+fitz
+pdf2image
+pytesseract
+groq
