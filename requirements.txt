@@ -7,3 +7,4 @@ pytesseract
 pillow
 groq
 numpy
+poppler
