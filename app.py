@@ -326,7 +326,7 @@ def main():
         st.stop()
     
     # Initialize the extractor
-    api_key = st.secrets.get("GROQ_API_KEY", "")
+    api_key = st.secrets.get("GROQ_API_KEY")
     if not api_key:
         st.error("❌ GROQ API key not configured in Streamlit secrets!")
         st.stop()
